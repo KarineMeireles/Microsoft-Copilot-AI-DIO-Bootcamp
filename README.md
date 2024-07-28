@@ -115,17 +115,16 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Prints 📸
 
 
-### Preparação do ambiente Python:<BR>
-![alt text](image.png)
-<br>
-
-### Input da Imagem: <BR>
-![alt text](image-1.png)
+![Preparação do ambiente Python](prints/image.png)
 
 <br>
 
-### Output da Imagem: <BR>
-![alt text](image-2.png)
+
+![Input da Imagem](prints/image-1.png)
+
+<br>
+
+![Output da Imagem](prints/image-2.png)
 <br>
 
 ## Contato 📧
