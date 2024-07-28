@@ -12,6 +12,7 @@ Este projeto foi desenvolvido como parte do desafio da plataforma [DIO](https://
 Microsoft-Copilot-AI-DIO-Bootcamp/
 ├── Inputs/             # Pasta contendo as imagens de entrada
 ├── Output/             # Pasta contendo os resultados do OCR
+├── prints/             # Pasta contendo imagens de prints
 ├── process_images.py   # Script Python que processa as imagens
 └── README.md           # Arquivo de documentação do projeto
 ```
