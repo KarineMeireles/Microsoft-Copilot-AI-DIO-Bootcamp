@@ -18,6 +18,23 @@ Microsoft-Copilot-AI-DIO-Bootcamp/
 ```
 <br>
 
+## Processo de Desenvolvimento 🛠️
+O desenvolvimento deste projeto seguiu um processo estruturado para garantir a organização e a qualidade do resultado final. As etapas realizadas foram:
+
+1. Planejamento 📝<br>
+2. Configuração do Ambiente ⚙️<br>
+3. Desenvolvimento do Script Python 💻<br>
+4. Testes 🧪<br>
+5. Documentação 📚<br>
+6. Publicação 🚀<br><br>
+## Ferramentas Utilizadas 🛠️
+
+Durante o desenvolvimento deste projeto, utilizei as seguintes ferramentas:
+
+**ChatGPT:** Ajuda com código, orientação e resolução de dúvidas durante o processo.<br>
+**GitHub Copilot:** Assistência na escrita de código, completando trechos e sugerindo melhorias.
+<br><br>
+
 ## Pré-requisitos 🛠️
 
 Antes de começar, você precisará ter o seguinte software instalado em sua máquina:
@@ -25,7 +42,7 @@ Antes de começar, você precisará ter o seguinte software instalado em sua má
 - [Python 3.12](https://www.python.org/downloads/release/python-3120/)
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Git](https://git-scm.com/)
-<br>
+<br><BR>
 
 ## Configuração do Ambiente ⚙️
 
